@@ -1,3 +1,6 @@
-n1 = input ('Digite um valor: ')
-n2 = input ('Digite outro valor: ')
+#Escrevendo Olá mundo na tela e me apresentando.
+
+print ('Olá, mundo!')
+print (' Eu me chamo Otávio :)')
+
 
