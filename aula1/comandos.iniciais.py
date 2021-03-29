@@ -10,3 +10,4 @@ n2 = int(input('Digite um outro valor: '))
 soma = (n1+n2)
 #Imprimido a soma.
 print('A soma dos números digitados é: ', soma)
+
