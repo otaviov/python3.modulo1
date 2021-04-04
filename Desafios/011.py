@@ -8,4 +8,4 @@ pinta uma área de 2m².
 larg = float(input('Largura da parede: '))
 alt = float(input('Altura da parede: '))
 area = larg * alt
-print('Sua parede tem a dimensão de {}x{} e sua área é de {}m².'.format(larg, alt, area))
+print('Sua parede tem a dimensão de {} x {} e sua área é de {}m².'.format(larg, alt, area))
