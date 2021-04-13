@@ -1,8 +1,8 @@
 # python3.modulo1
 
 ```diff
- 
-- ## Python3 para iniciantes
+
+## Python3 para iniciantes
 
 ```
 
