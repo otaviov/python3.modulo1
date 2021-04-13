@@ -2,7 +2,7 @@
 
 ```diff
 
-## Python3 para iniciantes
+- Python3 para iniciantes
 
 ```
 
