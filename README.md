@@ -1,6 +1,10 @@
 # python3.modulo1
 
-## Python3 para iniciantes 
+```diff
+ 
+- ## Python3 para iniciantes
+
+```
 
 ## CURSO PYTHON 
 
@@ -10,7 +14,5 @@
 
 - Esse repositorio esta em constante atualização.
 
-```diff
 + this will be highlighted in green
-- this will be highlighted in red
-```
+
