@@ -3,7 +3,7 @@
 
 ## CURSO PYTHON 
 
-+Esse curso é para quem ta iniciando python3. 
-+Aqui tem algumas resoluçoes de exercícios
-+Esse repositorio esta em constante atualização.
+*Esse curso é para quem ta iniciando python3. 
+*Aqui tem algumas resoluçoes de exercícios
+*Esse repositorio esta em constante atualização.
 
