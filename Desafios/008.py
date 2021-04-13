@@ -1,7 +1,7 @@
 '''
-Escreva um programa que leia um valor em 
-metros e o exiba convertido em centímetros 
-e milímitros.
+    Escreva um programa que leia um valor em 
+    metros e o exiba convertido em centímetros 
+    e milímitros.
 '''
 valor = float(input('Digite um valor em metros:'))
 cent = valor*100

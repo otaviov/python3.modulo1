@@ -1,7 +1,7 @@
 '''
-Faça um programa que leia um número
-inteiro qualquer e mostrena tela e sua
-tabuada.
+    Faça um programa que leia um número
+    inteiro qualquer e mostrena tela e sua
+    tabuada.
 ''' 
 print('{:*^30}'.format(' Vamos ler a tabuada '))
 n = int(input('Digite um número:'))

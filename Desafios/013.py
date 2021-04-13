@@ -1,7 +1,7 @@
 '''
-Faça um algoritmo que leia o salário de um
-funcionário e mostre seu novo salário, com
-15% de aumento.
+    Faça um algoritmo que leia o salário de um
+    funcionário e mostre seu novo salário, com
+    15% de aumento.
 '''
 
 #Primeiro método de resolução
@@ -15,5 +15,5 @@ print('Seu salário de R${:.2f} com aumento de 15% R${:.2f}. Valor final do sal�
 #Segundo método de resolução
 
 sal = float(input('Digite o seu sálario atual:'))
-print('Seu salário de R${:.2f} com aumento de 15% R${:.2f}. Valor final do salário: {:.2f}'.format(sal,sal*15/100, sal+sal*15/100))
+print('Seu salário de R${:.2f} com aumento de 15% R${:.2f}. Valor final do salário: {:.2f}'.format(sal,sal*15/100, sal+(sal*15/100)))
 
